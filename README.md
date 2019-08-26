@@ -12,5 +12,5 @@ This is my homework
 I'm using markdown
 
 ## Conclusion
-I suer did learn a lot
+I sure did learn a lot
 
